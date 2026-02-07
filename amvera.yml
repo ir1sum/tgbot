@@ -1,0 +1,7 @@
+projects:
+  - name: telegram-stars-bot
+    build:
+      runtime: python3
+    deploy:
+      runtime: python3
+      command: python bot.py
